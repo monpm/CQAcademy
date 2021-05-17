@@ -22,6 +22,10 @@
 	    </plugins>
 	</build>
 
-
+<properties>
+	<sonar.projectKey>monpm_CQAcademy</sonar.projectKey>
+	<sonar.organization>monpm</sonar.organization>
+	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 
 </project>
